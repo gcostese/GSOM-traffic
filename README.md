@@ -1,6 +1,6 @@
 # Lax-Hopf approach for solving Generic Second Order Models (GSOM) in traffic flow modeling
 
-These codes are based on the paper
+These codes are based on the following paper:
 
 Guillaume Costeseque, Jean-Patrick Lebacque,
 A variational formulation for higher order macroscopic traffic flow models: Numerical investigation,
